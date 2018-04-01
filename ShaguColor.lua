@@ -24,3 +24,6 @@ function ShaguColor ()
     ColorPickerFrame:Show();
     ColorPickerFrame:Show();
 end
+
+SLASH_SHAGUCOLOR1, SLASH_SHAGUCOLOR2 = "/scol", "/shagucolor"
+SlashCmdList["SHAGUCOLOR"] = ShaguColor
