@@ -6,11 +6,18 @@ Allows you to write colorful messages. Type `/scol` or `/shagucolor` to open a c
 
 **Please note that most servers will mute and/or ban you for using this**
 
-## Installation
+## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/shagu/ShaguColor/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "ShaguColor-master" to "ShaguColor"
 4. Copy "ShaguColor" into Wow-Directory\Interface\AddOns
+5. Restart Wow
+
+## Installation (The Burning Crusade, 2.4.3)
+1. Download **[Latest Version](https://github.com/shagu/ShaguColor/archive/master.zip)**
+2. Unpack the Zip file
+3. Rename the folder "ShaguColor-master" to "ShaguColor-tbc"
+4. Copy "ShaguColor-tbc" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
 ## Commands
