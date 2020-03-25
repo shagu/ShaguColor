@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: |cff33ffccShagu|cffffffffColor
+## Author: Shagu, 2016
+## Notes: Change Chat Color
+## Version: 0.1
+
+# main
+ShaguColor.lua
